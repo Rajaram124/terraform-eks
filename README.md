@@ -1,7 +1,3 @@
-AKIAZI2LEVUKNUDPXTZ6
-
-YkM0gzJPNE2sDbPIZtY+CM8UX2yH0E6XHp5ug3rN
-
 # terraform-eks
 A sample repository to create EKS on AWS using Terraform.
 
