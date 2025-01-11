@@ -28,5 +28,5 @@ module "eks" {
     }
   }
   # Make the API server endpoint public
-  endpoint_public_access = true
+  cluster_endpoint_public_access = true
 }
