@@ -27,4 +27,6 @@ module "eks" {
       desired_size = 2
     }
   }
+  # Make the API server endpoint public
+  endpoint_public_access = true
 }
